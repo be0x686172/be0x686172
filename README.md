@@ -6,8 +6,7 @@
 
 <!-- Socials -->
 <p align="center">
-  👋 Hello, I'm Abderahmane Behar Rahala. I'm passionate and self-taught in programming and cybersecurity. 
-Currently certified as a Web Developer. I'm aiming to join and succeed at 42 School. 🎯
+  👋 Hello, I'm Abderahmane Behar Rahala. I'm passionate and self-taught in programming and cybersecurity. <br> Currently certified as a Web Developer. I'm aiming to join and succeed at 42 School. 🎯
 </p>
 
   <!-- LinkedIn -->
