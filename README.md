@@ -4,5 +4,9 @@
 <!-- Title -->
 <h2 align="center">Hello World 👋</h2>
 
-
-  <a style="text-align: center;" href="https://linkedin.com/in/abderahmane-behar-rahala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abderahmane-behar-rahala" height="20" width="20" /></a>
+<p align="center">
+  <!-- Socials -->
+  <a href="https://linkedin.com/in/abderahmane-behar-rahala" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+</p>
