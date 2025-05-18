@@ -11,7 +11,7 @@
 
 <!-- Itachi -->
 <p align="center">
-  <img src="https://github.com/be0x686172/be0x686172/blob/main/Itachi_Uchiwa.png?raw=true" width="20%">
+  <img src="https://github.com/be0x686172/be0x686172/blob/main/Itachi_Uchiwa.png?raw=true" width="10%">
 </p>
 
 <!-- Socials -->
