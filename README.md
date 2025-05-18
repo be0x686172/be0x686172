@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:abderahmane.beharrahala@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="20" width="20"/></a>
-  <a href="https://linkedin.com/in/abderahmane-behar-rahala"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" height="20" width="20"/></a>
-  <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" height="20" width="20"/></a>
+  <a href="mailto:abderahmane.beharrahala@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="30" width="30"/></a>
+  <a href="https://linkedin.com/in/abderahmane-behar-rahala"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" height="30" width="30"/></a>
+  <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" height="30" width="30"/></a>
 </p>
