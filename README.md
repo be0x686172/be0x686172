@@ -13,3 +13,6 @@
   <a href="mailto:abderahmane.beharrahala@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="30" width="30"/></a>
   <a href="https://linkedin.com/in/abderahmane-behar-rahala"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" height="30" width="30"/></a>
 </p>
+
+<!-- Itachi -->
+<img align="center" src="https://github.com/be0x686172/be0x686172/blob/main/itachi.gif?raw=true" width="100%">
