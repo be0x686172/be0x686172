@@ -15,4 +15,4 @@
 </p>
 
 <!-- Itachi -->
-<img align="center" src="https://github.com/be0x686172/be0x686172/blob/main/itachi.gif?raw=true" width="100%">
+<img align="center" src="https://github.com/be0x686172/be0x686172/blob/main/Itachi_Uchiwa.png?raw=true" width="100%">
