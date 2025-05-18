@@ -14,7 +14,8 @@
   <a href="https://linkedin.com/in/abderahmane-behar-rahala"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" height="30" width="30"/></a>
 </p>
 
+
 <!-- Itachi -->
 <p align="center">
-  <img src="https://github.com/be0x686172/be0x686172/blob/main/Itachi_Uchiwa.png?raw=true" width="30%">
+  <img src="https://github.com/be0x686172/be0x686172/blob/main/Itachi_Uchiwa.png?raw=true" width="20%">
 </p>
