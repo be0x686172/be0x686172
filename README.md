@@ -15,6 +15,6 @@
 
   <!-- Discord -->
   <a href="https://discordapp.com/users/729282028633063424" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="30" style="margin-left: 20px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="30" />
   </a>
 </p>
