@@ -6,8 +6,7 @@
 
 <!-- Socials -->
 <p align="center">
-  👋 Hello, je m'appelle Abderahmane Behar Rahala. Je suis passionné et autodidacte en programmation.
-Actuellement certifié en tant que développeur web. Mon objectif est d'intégrer et de réussir l'École 42. 🎯
+  💻 Programmeur 🐦‍⬛
 </p>
 
 <!-- Socials -->
