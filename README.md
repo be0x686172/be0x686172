@@ -6,7 +6,7 @@
 
 <!-- Socials -->
 <p align="center">
-  Il était une fois un programmeur... 🐦‍⬛
+  Il était une fois, un programmeur... 🐦‍⬛
 </p>
 
 <!-- Socials -->
